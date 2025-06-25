@@ -25,6 +25,7 @@ A simple **Java command-line application** for managing student records. This CR
 ## 📂 File Structure
 
 ├── StudentManagementSystem.java
+
 └── README.md
 
 
@@ -52,9 +53,13 @@ Enter Student Marks: 92.5
 Student added successfully!
 
 🔮 Possible Improvements
+
 Add file-based storage (File I/O)
+
 Search and sort functionality
+
 GUI version using JavaFX or Swing
+
 Use HashMap for faster access by ID
 
 🙋‍♂️ Author
